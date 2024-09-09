@@ -1,4 +1,4 @@
-# 💫 Emmanuel Okafor:
+# 💫 Emmanuel Okafor
 I am a dynamic and results-oriented DevOps Engineer with over 4+ years of hands-on experience designing, implementing, and maintaining robust CI/CD pipelines, with end-to-end automation of infrastructure provisioning and resource integration.<br>👯 I’m looking to collaborate on DevOps automation projects<br>🌱 I’m currently learning AgroCD and Kustomize<br>🤝I need help with finding DevOps workshops and conferences in the UK<br>⚡Fun fact about me is that I usually send myself emails to remember an appointment I have in the future 
 
 
