@@ -1,6 +1,5 @@
 # 💫 Emmanuel Okafor
 I am a dynamic and results-oriented DevOps Engineer with over 3+ years of hands-on experience designing, implementing, and maintaining robust CI/CD pipelines, with end-to-end automation of infrastructure provisioning and resource integration.
-
 <br>👯 I’m looking to collaborate on DevOps automation projects<br>🤝I need help with finding DevOps workshops and conferences in the UK<br>⚡Fun fact: I deploy faster than I cook noodles future<br>📫 Reach me: okaforemman.c@gmail.com
 
 
